@@ -3,7 +3,9 @@
 
 ### Description
 
-Program that makes a connection and measures the round trip time of packets
+For UDP the packet gets sent from client to Server and the roundtrip time is measured.
+
+For TCP client makes a connection to Server and sends a message
 
 ### Compile and Run
 
