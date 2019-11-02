@@ -5,7 +5,7 @@
 
 Program that makes a connection and measures the round trip time of packets
 
-### Copile and Run
+### Compile and Run
 
 #### UDP
 
